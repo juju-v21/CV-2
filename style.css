@@ -2,6 +2,12 @@
     font-family: 'Quattrocento Sans', sans-serif;
 }
 
+h1{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  font-size: 22px;
+}
 
 body{
     scroll-behavior: smooth;
@@ -333,7 +339,6 @@ video{
 /* projets */
 
 #projets {
-  margin-top: 20px;
   display:flex;
   flex-direction: row;
 }
