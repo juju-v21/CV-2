@@ -338,9 +338,10 @@ video{
 
 /* projets */
 
-#projets {
-  display:flex;
-  flex-direction: row;
+#projets{
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .d-flex, img{
