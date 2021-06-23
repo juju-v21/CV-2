@@ -332,8 +332,10 @@ video{
 
 /* projets */
 
-.col-md-4 {
-  margin-top: 20px
+#projets {
+  margin-top: 20px;
+  display:flex;
+  flex-direction: row;
 }
 
 .d-flex, img{
